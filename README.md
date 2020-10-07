@@ -1,2 +1,2 @@
-# laravel-ajax-crud
+# ByNoGame - Sample Project
 
